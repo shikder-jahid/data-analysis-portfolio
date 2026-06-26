@@ -26,4 +26,4 @@ uncovering key trends in salaries, experience levels, and company sizes.
 Source: Kaggle - Data Science Job Salaries
 
 ## Visualization
-![Salary Analysis](salary_analysis.png)
+![Salary Analysis](salary_analysis.png.png)
