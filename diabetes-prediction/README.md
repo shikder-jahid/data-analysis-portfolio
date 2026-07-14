@@ -29,11 +29,11 @@ A supervised machine learning pipeline that predicts diabetes risk from diagnost
 | Macro avg    | 0.73      | 0.73   | 0.73     | 154     |
 | Weighted avg | 0.76      | 0.75   | 0.75     | 154     |
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Confusion_matrix.png)
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Feature_Importance.png)
 
 | Rank | Feature  | Importance |
 |------|----------|------------|
