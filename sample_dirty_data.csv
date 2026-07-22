@@ -1,0 +1,9 @@
+Customer Name , Email , Age, Signup Date, Country , Revenue($), Notes
+John Smith,john@email.com,29,2023-01-15,USA,1200.50,
+Jane Doe , jane@email.com ,,2023-02-20, UK,850,Loyal customer
+John Smith,john@email.com,29,2023-01-15,USA,1200.50,
+Mike Ross,,35,2023/03/05,Canada,,
+Sara Lee,sara@email.com,41,invalid_date,USA,2300,VIP
+,,,,,,
+Tom Hardy,tom@email.com,,2023-04-10,UK,,New lead
+Amy Chen,amy@email.com,27,2023-05-01,Australia,1750.25,
