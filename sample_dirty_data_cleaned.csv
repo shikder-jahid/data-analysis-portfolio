@@ -1,0 +1,7 @@
+customer_name,email,age,signup_date,country,revenue,notes
+John Smith,john@email.com,29.0,2023-01-15,USA,1200.5,Unknown
+Jane Doe,jane@email.com,32.0,2023-02-20,UK,850.0,Loyal customer
+Mike Ross,Unknown,35.0,2023/03/05,Canada,1475.375,Unknown
+Sara Lee,sara@email.com,41.0,invalid_date,USA,2300.0,VIP
+Tom Hardy,tom@email.com,32.0,2023-04-10,UK,1475.375,New lead
+Amy Chen,amy@email.com,27.0,2023-05-01,Australia,1750.25,Unknown
