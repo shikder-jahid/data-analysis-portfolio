@@ -48,6 +48,16 @@ Full before/after files and the generated report are included in this folder.
 
 ---
 
+### Screenshots
+
+**Upload & Preview**
+![Upload Screenshot](app_screenshot_upload.png)
+
+**Cleaning Report & Results**
+![Cleaned Result Screenshot](app_screenshot_cleaned_result.png)
+
+---
+
 ## 🛠️ Tech Stack
 `Python` · `Pandas` · `Streamlit`
 
