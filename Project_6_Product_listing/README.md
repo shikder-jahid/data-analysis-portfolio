@@ -26,3 +26,5 @@ Python, pandas, regex
 - `formatted_product_listings.csv` — final store-ready listing sheet
 - `before_after_comparison.png` — visual comparison
 - `format_listings.py` — the formatting script
+## Image
+![Top Association Rules](before_after_comparison.png)
