@@ -30,3 +30,5 @@ Python, pandas, regex
 - `cleaned_orders.csv` — final standardized dataset (output)
 - `before_after_comparison.png` — visual side-by-side comparison
 - `clean_data.py` — the cleaning script
+## Image
+![Top Association Rules](before_after_comparison.png)`
