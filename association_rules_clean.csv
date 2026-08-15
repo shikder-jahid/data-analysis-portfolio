@@ -1,0 +1,138 @@
+antecedents,consequents,support,confidence,lift
+Desk Lamp,Desk Organizer,0.207,0.699,2.391
+Desk Organizer,Desk Lamp,0.207,0.709,2.391
+Coffee Mug,French Press,0.27,0.722,2.231
+French Press,Coffee Mug,0.27,0.833,2.231
+USB-C Cable,Power Bank,0.305,0.778,2.094
+Power Bank,USB-C Cable,0.305,0.821,2.094
+Laptop Stand,Wireless Mouse,0.355,0.842,1.888
+Wireless Mouse,Laptop Stand,0.355,0.795,1.888
+Pen Set,Notebook,0.342,0.868,1.695
+Notebook,Pen Set,0.342,0.668,1.695
+Phone Case,Screen Protector,0.438,0.831,1.648
+Screen Protector,Phone Case,0.438,0.868,1.648
+Desk Lamp,Notebook,0.239,0.804,1.569
+Notebook,Desk Lamp,0.239,0.466,1.569
+Notebook,Desk Organizer,0.23,0.449,1.536
+Desk Organizer,Notebook,0.23,0.787,1.536
+Kitchen Scale,Laptop Stand,0.064,0.492,1.168
+Cutting Board,Screen Protector,0.064,0.585,1.16
+Sticky Notes,Laptop Stand,0.071,0.486,1.153
+Cutting Board,Phone Case,0.066,0.604,1.146
+Cutting Board,Wireless Mouse,0.056,0.509,1.142
+Water Bottle,Laptop Stand,0.06,0.475,1.129
+Sticky Notes,Wireless Mouse,0.073,0.5,1.121
+Pen Set,USB-C Cable,0.172,0.437,1.114
+USB-C Cable,Pen Set,0.172,0.439,1.114
+Screen Protector,Coffee Mug,0.21,0.416,1.113
+Coffee Mug,Screen Protector,0.21,0.561,1.113
+Sticky Notes,Screen Protector,0.081,0.557,1.105
+Coffee Mug,Phone Case,0.214,0.572,1.086
+Phone Case,Coffee Mug,0.214,0.406,1.086
+USB-C Cable,Notebook,0.212,0.54,1.053
+Notebook,USB-C Cable,0.212,0.413,1.053
+Desk Lamp,Laptop Stand,0.131,0.441,1.046
+Laptop Stand,Desk Lamp,0.131,0.31,1.046
+French Press,Screen Protector,0.17,0.526,1.043
+Screen Protector,French Press,0.17,0.337,1.043
+Water Bottle,Pen Set,0.052,0.41,1.04
+Kitchen Scale,Wireless Mouse,0.06,0.46,1.032
+Coffee Mug,Desk Lamp,0.114,0.306,1.03
+Desk Lamp,Coffee Mug,0.114,0.385,1.03
+Desk Lamp,Pen Set,0.12,0.406,1.029
+Pen Set,Desk Lamp,0.12,0.305,1.029
+USB-C Cable,Wireless Mouse,0.178,0.455,1.02
+Sticky Notes,USB-C Cable,0.058,0.4,1.02
+Wireless Mouse,USB-C Cable,0.178,0.4,1.02
+Coffee Mug,Notebook,0.195,0.522,1.019
+Notebook,Coffee Mug,0.195,0.381,1.019
+Screen Protector,Desk Lamp,0.151,0.3,1.013
+Desk Lamp,Screen Protector,0.151,0.51,1.013
+Desk Organizer,Power Bank,0.11,0.376,1.012
+Notebook,Screen Protector,0.261,0.51,1.012
+Screen Protector,Notebook,0.261,0.519,1.012
+Desk Organizer,Coffee Mug,0.11,0.376,1.007
+Phone Case,USB-C Cable,0.207,0.394,1.004
+USB-C Cable,Phone Case,0.207,0.529,1.004
+Desk Lamp,Wireless Mouse,0.133,0.448,1.003
+Sticky Notes,Phone Case,0.077,0.529,1.003
+Wireless Mouse,Pen Set,0.176,0.395,1.003
+Pen Set,Wireless Mouse,0.176,0.447,1.003
+Notebook,French Press,0.166,0.324,1.001
+French Press,Notebook,0.166,0.513,1.001
+Phone Case,Power Bank,0.195,0.37,0.997
+Power Bank,Phone Case,0.195,0.525,0.997
+Desk Organizer,USB-C Cable,0.114,0.39,0.995
+Laptop Stand,USB-C Cable,0.164,0.389,0.992
+USB-C Cable,Laptop Stand,0.164,0.418,0.992
+Water Bottle,Wireless Mouse,0.056,0.443,0.992
+Power Bank,Notebook,0.189,0.508,0.992
+Notebook,Power Bank,0.189,0.368,0.992
+Water Bottle,Notebook,0.064,0.508,0.992
+Coffee Mug,Laptop Stand,0.156,0.417,0.989
+Laptop Stand,Coffee Mug,0.156,0.369,0.989
+Power Bank,Coffee Mug,0.137,0.369,0.987
+Coffee Mug,Power Bank,0.137,0.367,0.987
+Sticky Notes,Pen Set,0.056,0.386,0.978
+Power Bank,Pen Set,0.143,0.385,0.978
+Pen Set,Power Bank,0.143,0.363,0.978
+Wireless Mouse,French Press,0.141,0.316,0.977
+French Press,Wireless Mouse,0.141,0.436,0.977
+Pen Set,French Press,0.124,0.316,0.976
+French Press,Pen Set,0.124,0.385,0.976
+Coffee Mug,Pen Set,0.143,0.383,0.972
+Pen Set,Coffee Mug,0.143,0.363,0.972
+Desk Lamp,French Press,0.093,0.315,0.972
+Wireless Mouse,Coffee Mug,0.162,0.363,0.971
+Coffee Mug,Wireless Mouse,0.162,0.433,0.971
+Pen Set,Screen Protector,0.193,0.489,0.971
+Screen Protector,Pen Set,0.193,0.383,0.971
+Power Bank,Wireless Mouse,0.16,0.43,0.964
+Wireless Mouse,Power Bank,0.16,0.358,0.964
+Notebook,Phone Case,0.259,0.506,0.96
+Phone Case,Notebook,0.259,0.492,0.96
+Cutting Board,Notebook,0.054,0.491,0.957
+Desk Organizer,Pen Set,0.11,0.376,0.954
+Notebook,Wireless Mouse,0.218,0.425,0.953
+Wireless Mouse,Notebook,0.218,0.488,0.953
+Laptop Stand,Pen Set,0.158,0.374,0.95
+Pen Set,Laptop Stand,0.158,0.4,0.95
+French Press,Phone Case,0.162,0.5,0.949
+Phone Case,Pen Set,0.197,0.374,0.949
+Phone Case,French Press,0.162,0.307,0.949
+Pen Set,Phone Case,0.197,0.5,0.949
+Laptop Stand,Screen Protector,0.201,0.478,0.948
+Screen Protector,Laptop Stand,0.201,0.399,0.948
+Phone Case,Laptop Stand,0.21,0.398,0.944
+Laptop Stand,Phone Case,0.21,0.498,0.944
+Desk Organizer,Laptop Stand,0.116,0.397,0.943
+Desk Organizer,Screen Protector,0.139,0.475,0.943
+Laptop Stand,Notebook,0.203,0.483,0.942
+Notebook,Laptop Stand,0.203,0.397,0.942
+Laptop Stand,Power Bank,0.147,0.35,0.942
+Power Bank,Laptop Stand,0.147,0.397,0.942
+USB-C Cable,Coffee Mug,0.137,0.349,0.935
+Coffee Mug,USB-C Cable,0.137,0.367,0.935
+Wireless Mouse,Screen Protector,0.21,0.47,0.932
+Screen Protector,Wireless Mouse,0.21,0.416,0.932
+Kitchen Scale,Notebook,0.062,0.476,0.929
+Desk Lamp,Phone Case,0.145,0.49,0.929
+Laptop Stand,French Press,0.127,0.3,0.928
+French Press,Laptop Stand,0.127,0.391,0.928
+Desk Lamp,USB-C Cable,0.108,0.364,0.927
+Phone Case,Wireless Mouse,0.218,0.413,0.927
+Wireless Mouse,Phone Case,0.218,0.488,0.927
+Screen Protector,USB-C Cable,0.183,0.362,0.924
+USB-C Cable,Screen Protector,0.183,0.466,0.924
+Desk Lamp,Power Bank,0.102,0.343,0.923
+Sticky Notes,Notebook,0.068,0.471,0.92
+French Press,Power Bank,0.11,0.34,0.915
+Bluetooth Speaker,Phone Case,0.054,0.481,0.914
+Screen Protector,Power Bank,0.17,0.337,0.909
+Power Bank,Screen Protector,0.17,0.458,0.909
+Bluetooth Speaker,Notebook,0.052,0.463,0.903
+Desk Organizer,Wireless Mouse,0.116,0.397,0.89
+French Press,USB-C Cable,0.11,0.34,0.866
+Desk Organizer,Phone Case,0.133,0.454,0.861
+Water Bottle,Phone Case,0.054,0.426,0.809
+Kitchen Scale,Phone Case,0.054,0.413,0.783
