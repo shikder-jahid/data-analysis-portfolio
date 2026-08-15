@@ -26,3 +26,5 @@ Python, pandas, regex
 - `completed_entry_sheet.csv` — final completed catalog sheet (output)
 - `before_after_comparison.png` — visual comparison
 - `process_entry.py` — the processing script
+## Image
+![Product Listing Comparison](before_after_comparison.png)
