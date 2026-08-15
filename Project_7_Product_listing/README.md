@@ -27,4 +27,4 @@ Python, pandas, regex
 - `before_after_comparison.png` — visual comparison
 - `format_listings.py` — the formatting script
 ## Image
-![Top Association Rules](before_after_comparison.png)
+![Product Listing Comparison](before_after_comparison.png)
