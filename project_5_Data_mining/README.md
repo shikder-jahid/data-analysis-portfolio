@@ -33,3 +33,5 @@ These rules can directly power:
 - `raw_transactions.csv` — raw order data (input)
 - `association_rules_clean.csv` — full output of mined rules
 - `top_rules_chart.png` — visualization of strongest associations
+## Image
+![Top Association Rules](top_rules_chart.png)
